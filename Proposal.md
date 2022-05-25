@@ -1,7 +1,12 @@
 # IoT Helium sensor system
+## For [customer segment] 
 
-## Why
+## Who wants/needs [compelling reason to buy]
 
-## Who
+## Our [solution - name]
 
-## Where
+## is a [solution category]
+
+## That provides [key benefit]
+
+##Unlike [main competitor]
