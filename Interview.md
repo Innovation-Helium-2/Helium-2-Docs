@@ -8,7 +8,7 @@
 ##### He can control his system wherever has a wifi network and 5g.
 
 # Name: Ed Montalbano - home owner 
-<br/>
+&nbsp; 
 ##### Using app/security system: SmartBnB - which automatically sends messages (nothing really relating to security).
 ##### Owning 2 units for rent that associates with his house.
 ##### security system: 
