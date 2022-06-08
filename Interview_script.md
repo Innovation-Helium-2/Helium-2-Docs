@@ -6,7 +6,7 @@
 
 1. How many properties do you manage?
 
-1. Could you tell me about the tech that has impacted you at your job, and what technologies you use?
+1. Could you tell me about the tech that has impacted you at your job?
 
 1. Could you tell me a problem that you have had with the technology you mentioned?
 
